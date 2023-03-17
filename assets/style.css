@@ -1,0 +1,8 @@
+.imagen{
+    background-image: url(images/datos-internet-1.jpg);
+    background-size: cover;
+    width: 20rem;
+    height: 20rem;
+    border-radius: 3px;
+    border-color: beige;
+}
